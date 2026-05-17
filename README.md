@@ -78,4 +78,3 @@ Criar interfaces modernas, responsivas e funcionais, sempre buscando melhorar a 
 
 _"Transformando ideias em interfaces modernas e funcionais."_ 🚀
 
- [![Vitor Botazzo stats](https://github-readme-stats.vercel.app/api?username=vbw1510)](https://github.com/anuraghazra/github-readme-stats)

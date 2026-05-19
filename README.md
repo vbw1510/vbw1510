@@ -45,26 +45,14 @@ Criar interfaces modernas, responsivas e funcionais, sempre buscando melhorar a 
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div>
-  <a href="https://github.com/vbw1510">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=vbw1510&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbw1510&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
 
 ## 🌎 Redes Sociais
 
-<a href="https://instagram.com/SEUINSTAGRAM" target="_blank">
+<a href="https://instagram.com/vitor.botazzo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/SEULINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-botazzo-54725840a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
